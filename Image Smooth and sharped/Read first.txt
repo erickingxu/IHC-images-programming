@@ -1,0 +1,5 @@
+1.This class is designed with 2 template for image smoothing and sharping.And you need include CImage class for reading pixels in the images.
+2.U can use it with adding it to your project.
+3.If you like,you can change it with your thought and give it to me .And I will share your good work for other in this site.
+4.If I have time to read your comments ,and I will reply to you immediately,or we can communicated with each other by email.My email:erickingxu@gmail.com
+Thanks,and other image processing class will be provided in later days.
